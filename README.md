@@ -24,6 +24,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masfiqun&show_icons=true&theme=tokyonight&layout=compact" alt="masfiqun" /></p>
 
 <p align="center">
-    <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=masfiqun&show_icons=true&theme=tokyonight" alt="masfiqun" />
-    <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=masfiqun&show_icons=true&theme=tokyonight" alt="masfiqun" />    
+    <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=masfiqun&show_icons=true&theme=tokyonight" alt="masfiqun" />
+    <img height="200px" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=masfiqun&show_icons=true&theme=tokyonight" alt="masfiqun" />    
 </p>
