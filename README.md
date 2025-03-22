@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masfiqun&label=Profile%20views&color=0e75b6&style=flat" alt="masfiqun" /> </p>
 
 - 🌱 I’m currently learning **Dart, Flutter**
-- Currently working on a Chat system.
+- Currently working on a Store Management System.
 
 - 📫 How to reach me **masfiqunahmednooneknows@gmail.com**
 
