@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Dart, Flutter**
 - Currently working on a Store Management System.
 
-- 📫 How to reach me **masfiqunahmednooneknows@gmail.com**
+- 📫 How to reach me **masfiqun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
